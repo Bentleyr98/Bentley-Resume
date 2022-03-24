@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Bekah Bentley's Resume
+title: Brigham Young's Resume
 ---
-# Rebekah "Bekah" Bentley
-A students
+# Brigham Young
+The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>

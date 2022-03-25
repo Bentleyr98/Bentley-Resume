@@ -3,87 +3,66 @@ layout: cv
 title: Bekah Bentley's Resume
 ---
 # Bekah Bentley
-A Student at BYU-Idaho
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="bentley.rebekah314@gmail.com">bentley.rebekah314@gmail.com</a>
+| <a href="https://www.linkedin.com/in/rebekah-bentley">LinkedIn</a>
+| <a href="https://github.com/Bentleyr98">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Young University - Idaho__, Rexburg, ID `2017 - Present`
+- 3.87 GPA
+- Enrolled in classes on Data Structures and Databases (MySQL)
+- Knowledge of Python, Object Oriented Programming (OOP), JavaScript, HTML, CSS, SQL, and C
+- Member of Association of Computing Machinery [ACM] Society
 
-- Full academic scholarship with 4.0 GPA
+## Projects
+__Python Tutorial__
+Using Python, I built a python tutorial on a GUI that will let the user learn and run their own code
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+__The Card Game War__
+Using JavaScript, HTML, and CSS. I recreated the classic card game war on a web application
 
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+__The Line Leader__
+Using HTML and CSS, I built a three-page website on pickup lines
 
 ## Service and Work History
+__Lockup – Security__ `Jan 2021 – Present`
+Brigham Young University - Idaho
+Public Safety 
+- Worked in a team environment and trained new employees
+- Patrolled campus buildings and ensured building security 
 
-`2025-2027`
-__Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+__Brine Pit Operator__ `Feb 2020 – Aug 2020`
+Arla Foods, Kaukauna, Wisconsin
+International, European cheese company
+- Trained new employees
+- Kept detailed reports for production output and safely operated equipment
+- Worked with a team to ensure that product met safety and quality standards
+
+__Packaging Technician__ `Aug 2016 – Apr 2017`
+Arla Foods, Kaukauna, Wisconsin
+International, European cheese company
+- Trained new employees
+- Packaged product, and operated machines
+- Performed general maintenance of machine, clean-up of work area, and paperwork
+
+__Volunteer Work__  `Oct 2017 – Apr 2019`
+The Church of Jesus Christ of Latter-day Saints
+- Gave service and helped people from all walks of life
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 

@@ -24,12 +24,15 @@ __Brigham Young University - Idaho__, Rexburg, ID `2017 - Present`
 ## Projects
 __Python Tutorial__
 Using Python, I built a python tutorial on a GUI that will let the user learn and run their own code
+<a href="https://github.com/Bentleyr98/cse210-python-tutorial">Link to tutorial</a>
 
 __The Card Game War__
 Using JavaScript, HTML, and CSS. I recreated the classic card game war on a web application
+<a href="https://github.com/Bentleyr98/War">Link to card game</a>
 
 __The Line Leader__
 Using HTML and CSS, I built a three-page website on pickup lines
+<a href="https://pickup-lines.glitch.me/pickup-lines.html">Link to website</a>
 
 ## Service and Work History
 __Lockup – Security__ `Jan 2021 – Present`
